@@ -31,4 +31,19 @@ public class Controlador {
         }
         return new double[] {consumoElectricos, consumoCombustible};
     }
+    
+    public static void vistaListarVehiculos(){
+        ListarVehiculosView view1 = new ListarVehiculosView();
+        view1.setVisible(true);
+    }
+    
+    public static void vistaAgregarVehiculos(){
+        AgregarVehiculosView view2 = new AgregarVehiculosView();
+        view2.setVisible(true);
+    }
+    
+    public static void mostrarMenu(){
+        MenuPrincipalView menu = new MenuPrincipalView();
+        menu.setVisible(true);
+    }
 }

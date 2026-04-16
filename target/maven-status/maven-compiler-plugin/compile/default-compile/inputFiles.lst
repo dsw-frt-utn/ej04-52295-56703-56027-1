@@ -1,12 +1,13 @@
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Responsable.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Marca.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\VehiculoElectrico.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\app\Program.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Sucursal.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Vehiculo.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\views\VehiculoViewModel.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\data\Persistencia.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\VehiculoTipo.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\views\Controlador.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\views\ListarVehiculosView.java
-G:\Otros ordenadores\Mi PC\Desarrollo de Software\2026\UNIDAD 1\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\VehiculoCombustible.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\VehiculoElectrico.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\VehiculoTipo.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\views\ListarVehiculosView.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\views\Controlador.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Responsable.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\app\Program.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Marca.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\views\AgregarVehiculosView.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\data\Persistencia.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\views\VehiculoViewModel.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Vehiculo.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\Sucursal.java
+F:\UTN\2026\Desarrolo de software\EJ04\ej04-52295-56703-56027-1\src\main\java\domain\VehiculoCombustible.java
